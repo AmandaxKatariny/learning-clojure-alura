@@ -29,6 +29,17 @@ O que aprendemos nesta aula:
 - Que o Clojure é imutável;
 - Criar função com defn.
 
+### Aula 02
+
+O que aprendemos nesta aula:
+
+- Definir uma variável com def ela tem o escopo global, dependendo do namespace;
+- Algumas boas práticas com Clojure;
+- Criar uma variável de escopo local com o let;
+- Utilizar o class para descobrir o tipo da variável;
+- Trabalhar com condicionais if;
+- Que o nil(Nulo) é considerado false dentro do if.
+
 ## Conceitos 
 
 - https://blog.nubank.com.br/o-que-e-clojure/
