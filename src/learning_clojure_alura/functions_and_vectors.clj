@@ -1,3 +1,4 @@
+(ns learning-clojure-alura.functions-and-vectors)
 
 (println "Bem vindo(a) ao sitema de estoque"))
 

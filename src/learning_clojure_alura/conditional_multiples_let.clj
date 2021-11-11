@@ -1,4 +1,6 @@
-(defn valor-descontado 
+(ns learning-clojure-alura.conditional-multiples-let)
+
+(defn valor-descontado
   "Retorna o valor com descontado de 10%."
   [valor-bruto]
   (if (> valor-bruto 100)
