@@ -71,6 +71,15 @@ O que aprendemos nesta aula:
 - Utilizar a função filter para fazer a filtragem de elementos;
 - Utilizar a função reduce para reduzir valores.
 
+## Aula 05
+O que aprendemos nesta aula:
+
+- Utilizar um Map(HashMap);
+- Utilizar a função count;
+- Utilizar a função keys para devolver as chaves que o map possui;
+- Utilizar a função assoc para associar um valor ao map;
+- O que é threading.
+
 ## Conceitos 
 
 - https://blog.nubank.com.br/o-que-e-clojure/
