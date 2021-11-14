@@ -1,7 +1,7 @@
 (ns learning-clojure-alura.aula3)
 
 (defn valor-descontado
-  "Retorna o valor com descontado de 10%."
+  "Retorna o valor com descontado de 10% se o valor for estritamente maior que 100."
   [valor-bruto]
   (if (> valor-bruto 100)
 

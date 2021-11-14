@@ -58,6 +58,19 @@ O que aprendemos nesta aula:
 - Criar uma função anônima;
 - Utilizar % para fazer um função lambda.
 
+
+## Aula 04
+
+O que aprendemos nesta aula:
+
+- Utilizar o get para evitar exceções;
+- Definir o valor padrão de retorno do get;
+- Utilizar a função inc para somar o número atual mais um;
+- Utilizar a função update para apenas retornar um vetor com um valor alterado;
+- Utilizar a função map para passar por todos os elementos;
+- Utilizar a função filter para fazer a filtragem de elementos;
+- Utilizar a função reduce para reduzir valores.
+
 ## Conceitos 
 
 - https://blog.nubank.com.br/o-que-e-clojure/
