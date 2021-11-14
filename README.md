@@ -80,6 +80,15 @@ O que aprendemos nesta aula:
 - Utilizar a função assoc para associar um valor ao map;
 - O que é threading.
 
+
+## Aula 06
+O que aprendemos nesta aula:
+
+- Utilizar o destruct para um dicionário;
+- Utilizar o Thread last;
+- Utilizar o map, reduce e filter em um mapa;
+- Criar composição com o comp;
+
 ## Conceitos 
 
 - https://blog.nubank.com.br/o-que-e-clojure/
