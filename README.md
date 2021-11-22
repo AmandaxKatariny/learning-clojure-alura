@@ -1,5 +1,5 @@
-# learning-clojure-alura
-- Semana I - Yes, she Codes.
+# Semana I - Yes, she Codes
+
 - Primeiros passos no aprendizado de Clojure - Curso da Alura
 
 ## Preparando o Ambiente 
