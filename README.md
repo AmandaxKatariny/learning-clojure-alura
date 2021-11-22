@@ -1,4 +1,4 @@
-# Semana I - Yes, she Codes
+# Introdução a programção - Clojure
 
 - Primeiros passos no aprendizado de Clojure - Curso da Alura
 
