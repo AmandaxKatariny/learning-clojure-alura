@@ -1,6 +1,6 @@
 # learning-clojure-alura
 - Semana I - Yes, she Codes.
-Primeiros passos no aprendizado de Clojure - Curso da Alura
+- Primeiros passos no aprendizado de Clojure - Curso da Alura
 
 ## Preparando o Ambiente 
 - https://clojure.org/guides/getting_started
